@@ -1,0 +1,25 @@
+INSERT INTO `Usuarios`(`nombre`, `apellido`, `clave`, `perfil`, `estado`) VALUES ([value-2],[value-3],[value-4],[value-5],[value-6])
+
+
+UPDATE `Usuarios`SET `nombre`='',`apellido`='',`clave`='',`perfil`=,`estado`= WHERE id =
+
+
+SELECT * FROM `usuarios`
+SELECT * FROM `usuarios` WHERE `estado` = 0
+SELECT * FROM `usuarios` WHERE id = 1
+
+DELETE FROM `Usuarios` WHERE `id` = 1
+
+
+
+
+
+INSERT INTO `producto`(`codigo_barra`, `nombre`) VALUES ('135489','aceite')
+
+UPDATE `producto` SET `codigo_barra`='',`nombre`='',`path_foto`='' WHERE id = 
+
+
+SELECT * FROM `producto` WHERE 1
+SELECT * FROM `producto`
+
+DELETE FROM `producto` WHERE id = 1
