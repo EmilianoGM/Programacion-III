@@ -1,0 +1,2 @@
+Tipo: tt - Velocidad: 3 - Planeta: mar - PathFoto : /ovnisBorrados/5.tt.borrado.032650.jpg
+Tipo: gato - Velocidad: 74 - Planeta: venus - PathFoto : ./ovnisBorrados/4.gato.borrado.035439.jpg
